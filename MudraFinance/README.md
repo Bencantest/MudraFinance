@@ -33,7 +33,7 @@ A powerful, AI-powered personal finance planning Chrome extension with smart bud
 - **Responsive Layout**: Perfect fit in Chrome extension popup
 - **Intuitive Navigation**: Tab-based interface for easy access
 
-## 🚀 Installation
+##  Installation
 
 ### Method 1: Load Unpacked Extension (Development)
 
@@ -63,7 +63,7 @@ A powerful, AI-powered personal finance planning Chrome extension with smart bud
 2. Extract to a folder
 3. Follow steps 2-5 from Method 1
 
-## 📖 Usage Guide
+##  Usage Guide
 
 ### Getting Started
 
@@ -138,21 +138,21 @@ The extension comes with a built-in API key that allows free usage. Just start c
 
 ### Settings
 
-Access settings by clicking the ⚙️ icon:
+Access settings by clicking the  icon:
 
 - **Groq API Key**: Add your personal API key
 - **Currency**: Choose your preferred currency symbol
 - **Budget Alerts**: Toggle notifications on/off
 - **Reset Data**: Clear all stored information
 
-## 🔒 Privacy & Security
+##  Privacy & Security
 
 - **Local Storage**: All your financial data is stored locally in Chrome
 - **No Data Collection**: We don't collect or transmit your personal data
 - **Encrypted API Keys**: API keys are stored securely in Chrome's storage
 - **API Key Obfuscation**: Built-in API key is obfuscated in the code
 
-## 🛠️ Technical Details
+##  Technical Details
 
 ### Technologies Used
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+)
@@ -163,7 +163,7 @@ Access settings by clicking the ⚙️ icon:
 
 ### File Structure
 ```
-finance-planner-extension/
+MudraFinance-extension/
 ├── manifest.json                 # Extension configuration
 ├── popup.html                    # Main UI
 ├── css/
@@ -190,7 +190,7 @@ The built-in API key is obfuscated using a custom character mapping algorithm:
 - Underscores: Preserved
 - Decoded at runtime for API calls
 
-## 🎨 Customization
+##  Customization
 
 ### Changing Colors
 Edit `css/styles.css` and modify the CSS variables:
@@ -207,7 +207,7 @@ Edit `css/styles.css` and modify the CSS variables:
 ### Adding New Expense Categories
 Modify the `basicExpenses` section in `popup.html` to add new fixed expense types.
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### AI Not Responding
 1. Check your internet connection
@@ -224,7 +224,7 @@ Modify the `basicExpenses` section in `popup.html` to add new fixed expense type
 2. Check browser console for errors
 3. Try refreshing the extension popup
 
-## 📝 Future Enhancements
+##  Future Enhancements
 
 Potential features for future versions:
 - [ ] Export data to CSV/PDF
@@ -237,15 +237,15 @@ Potential features for future versions:
 - [ ] Goal progress tracking
 - [ ] Integration with bank accounts
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests.
 
-## 📄 License
+##  License
 
 This project is open source and available under the MIT License.
 
-## 💡 Tips for Best Results
+##  Tips for Best Results
 
 1. **Be Honest with Numbers**: Enter accurate income and expenses
 2. **Update Regularly**: Review and update your budget monthly
@@ -253,13 +253,13 @@ This project is open source and available under the MIT License.
 4. **Track Consistently**: Regular tracking leads to better insights
 5. **Set Realistic Goals**: Start small and build up
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Chart.js for beautiful visualizations
 - Groq for powerful AI capabilities
 - Chrome Extensions API for the platform
 
-## 📞 Support
+##  Support
 
 For issues, questions, or suggestions:
 - Open an issue on GitHub
@@ -268,6 +268,6 @@ For issues, questions, or suggestions:
 
 ---
 
-**Happy Budgeting! 💰**
+**Happy Budgeting! **
 
 Made with ❤️ for better financial planning
